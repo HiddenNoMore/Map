@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <% include ./partials/head %>
+    </head>
+    <body>
+        <header>
+            <% include ./partials/header %>
+        </header>
+        <div class="container">
+        <div class="row">   
+                <% fileOrgs.forEach(function(org, index){ %>
+                <div class="col-sm-6 col-md-4 col-lg-3">
+                    <div class="thumbnail org">
+                            <a href="<%= org.url %>" class="btn"><img src="assets/data/img/<%= org.logo %>" alt="<%= org.name %>"></a>
+                        <p><h4><%= org.name %></h4></p>
+                        <p><%= org.description %></p>
+                        
+                        <% if(org.tags) {%>
+                            <p> Tags:<strong>
+                            <% org.tags.forEach(function(tag, index){ %>
+                                <%= tag %>&nbsp;
+                            <% }) %>
+                        </strong>
+                            </p>
+                        <% } %>
+                        <p><a href="<%= org.url %>">Further info ... </a></p>
+                    </div>
+                </div>
+                <% if((index+1) % 2 == 0) {%>
+                    <div class="clearfix visible-sm-block"></div>
+                <% } %>
+                <% if((index+1) % 3 == 0) {%>
+                    <div class="clearfix visible-md-block"></div>
+                <% } %>
+                <% }) %>
+            </div>
+        </div>
+        <footer>
+            <% include ./partials/footer %>
+        </footer>
+
+    </body>
+</html>

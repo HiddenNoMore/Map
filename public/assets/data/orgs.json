@@ -1,0 +1,50 @@
+[
+  {
+    "name": "The Ada Initiative",
+    "description": "The Ada Initiative helps women get and stay involved in open source, open data, open education, and other areas of free and open technology and culture.",
+    "url": "http://www.adainitiative.org/",
+    "tags": ["startup", "business"],
+    "locations": "global",
+    "logo": "adainitiative.jpg"
+  },
+  {
+    "name": "Anita Borg Institute",
+    "description": "The Anita Borg Institute for Women and Technology is a nonprofit organization founded by computer scientist Anita Borg. The institute’s primary aim is to recruit, retain, and advance women in technology.",
+    "url": "http://www.anitaborg.org/",
+    "tags": ["startup", "business"],
+    "locations": "us",
+    "logo": "anitaporginstitute.jpg"
+  },
+  {
+    "name": "Passion Projects",
+    "description": "Talks from incredible women in tech every month.",
+    "url": "www.passion-projects.github.com",
+    "tags": ["startup", "business"],
+    "locations": "online",
+    "logo": "passionprojects.jpg"
+  },
+  {
+    "name": "Society of Women Engineers",
+    "description": "For more than six decades, SWE has given women engineers a unique place and voice within the engineering industry. Our organization is centered around a passion for our members' success and continues to evolve with the challenges and opportunities reflected in today's exciting engineering and technology specialties.",
+    "url": "http://societyofwomenengineers.swe.org/",
+    "tags": ["startup", "business"],
+    "locations": "global",
+    "logo": "socityof-womenengineers.jpg"
+  },
+  {
+    "name": "Pink Programming",
+    "description": "Pink Programming is a non-profit organization. We exist to enable more women to discover the joy of programming. Our goal is to increase the proportion of women working in the tech industry. We believe this is good for equality and equal opportunity for all.",
+    "url": "https://www.pinkprogramming.se/en",
+    "tags": ["startup", "business"],
+    "locations": "Stockholm, Malmo, Gothemburg",
+    "logo": "pink_programming.png"
+  },
+  {
+    "name": "Women Techmakers",
+    "description": "Google's Women Techmakers program provides visibility, community, and resources for women in technology.",
+    "url": "https://www.womentechmakers.com/",
+    "tags": ["startup", "business"],
+    "locations": "global",
+    "logo": "womentechmakers.png"
+  }
+]

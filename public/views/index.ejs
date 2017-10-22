@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <% include ./partials/head %>
+  <script src="../assets/js/map.js"></script>
+</head>
+
+<body>
+  <header>
+    <% include ./partials/header %>
+  </header>
+  <div class="container-fluid">
+    <div>
+      <div class="main-content" id="map"></div>
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDwvAMzWG7NMmWDTFzPQLgKXj2neHAYwhA&callback=initMap" async
+        defer></script>
+    </div>
+  </div>
+  <footer>
+    <% include ./partials/footer %>
+  </footer>
+</body>
+
+</html>

@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Conquer your fear for starting your own business NOW!",
+    "description": "Do you have a dream of starting your own company? But you don’t know how to overcome those self-doubts? This workshop will help you overcome your fears! Personal leadership: How can you lead yourself in a positive way, break through and change your belief systems to understand what you want, what to aim for and how to get better at what you want to do!    Transform your Fear into Courage: We will look into fear, what is it inside of fear that is so threatening to us, and how can you work through it!",
+    "position": { "lat": 59.3374593, "lng": 18.0630042 },
+    "start_date": "2017-10-25",
+    "start_time": "17:30",
+    "end_date": "2017-10-25",
+    "end_time": "18:30",
+    "organisation": "Impact Hub Stockholm",
+    "url":"https://www.eventbrite.com/e/conquer-your-fear-for-starting-your-own-business-now-tickets-38806787145",
+    "tags": ["startup", "business"]
+  },
+  {
+    "name": "Father and Daughter over-night Robot Camp for elementary school students",
+    "description": "Bonding time!",
+    "address": "South Korea",
+    "position": { "lat": 35.7982026, "lng": 125.6297539 },
+    "start_date": "2017-11-12",
+    "start_time": "17:30",
+    "end_date": "2017-11-13",
+    "end_time": "18:30",
+    "organisation": "Girls' Robot",
+    "url":"https://www.robotevents.com/robot-competitions/workshops/RE-WORKSHOP-17-3001.html",
+    "tags": ["girls", "robots", "tech", "engineering"]
+  },
+  {
+    "name": "Ada Lovelace Celebration 2017, an ACM Celebration Event",
+    "description": "On Friday, we have a full day lined up with several talks from industry and academia, including career-related, inspirational and technical talks. We bring together talks from powerful women in the tech industry and research. Our keynote speaker, Maral Kalajian from Watty, also known as, ‘Maral from Twitter’, ‘Powerhouse’, 'energy pack' or ‘Curly’ is one of the most familiar faces in the Stockholm tech scene. Maral was listed as among the 100 most influential names in the Scandinavian startup scene by tech site The Nordic Web in 2016, and will give a talk on Obsession is the reward - In life, it all comes down to what we want, how much we want it and our willingness to go all in to get it. Everything else is detail.",
+    "address": "Lägerhyddsvägen 2, SE-752 37 Uppsala, Sweden",
+    "position": { "lat": 59.8406146, "lng": 17.6465421 },
+    "start_date": "2017-11-17",
+    "start_time": "19:00",
+    "end_date": "2017-11-18",
+    "end_time": "18:30",
+    "organisation": "Uppsala ACM-W Student Chapter",
+    "url":"http://adalovelace-celebration.acm.org/",
+    "tags": ["startup", "business"]
+  }
+]
