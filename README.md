@@ -6,6 +6,7 @@ MAPS_KEY=<Maps Token>
 
 To run the server locally, run:
 
-```
-node server.js
+````
+npm install
+PORT=3000 node main.js
 ```

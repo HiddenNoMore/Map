@@ -1,10 +1,178 @@
 [
   {
+    "name": "Mujeres por Africa",
+    "description": "It is a Spanish NGO that works in Africa and Spain, to promote women in Africa through education, exchange fellowship programs for professionals, entrepeunership projects, etc.",
+    "url": "http://www.mujeresporafrica.es/en",
+    "tags": ["Women", "Africa", "Science", "Entrepeneur", "Entrepreneurship", "NGO"],
+    "locations": "Africa, Spain",
+    "logo": ""
+  },
+  {
+    "name": "Asociación de Mujeres Investigadoras y Tecnológas (AMIT)",
+    "description": "Spanish NGO composed by scientist and technologist from different fields that work in Science, Technology or management of science and technology in organizations or public and private Spanish research centers.",
+    "url": "http://www.amit-es.org/",
+    "tags": ["Science", "Women", "Technology", "Association", "Spain"],
+    "locations": "Spain",
+    "logo": ""
+  },
+  {
+    "name": "CNIO Women in Science (WISE)",
+    "description": "Women in Science Office at the Spanish National Cancer Research Center (CNIO), that organize events, seminars to rainse awareness in gender issues, and look for inequeties in the scientific career, trying to focus on them and changed them through policy or conduct rules.",
+    "url": "http://www.cnio.es/es/women-science/index.asp",
+    "tags": ["Science", "Women", "gender equality"],
+    "locations": "Madrid, Spain",
+    "logo": ""
+  },
+  {
+    "name": "Girls Who Code",
+    "description": "Girls Who Code free after school Clubs launch for 2017-2018, introducing coding to 30K girls",
+    "url": "http://girlswhocode.com",
+    "tags": ["code", "software", "girls", "after school"],
+    "locations": "USA",
+    "logo": ""
+  },
+  {
+    "name": "Chick Tech",
+    "description": "ChickTech is a nonprofit dedicated to retaining women in the technology workforce and increasing the number of women and girls pursuing technology-based careers.",
+    "url": "https://chicktech.org",
+    "tags": ["tech", "womenintech", "diversity", "tech", "teen"],
+    "locations": "USA",
+    "logo": ""
+  },
+  {
+    "name": "Lottie Dolls",
+    "description": "",
+    "url": "",
+    "tags": ["", ""],
+    "locations": "",
+    "logo": ""
+  },
+  {
+    "name": "Let Toys Be Toys",
+    "description": "Let Toys Be Toys campaign is asking the toy and publishing industries to stop limiting children’s interests by promoting some toys and books as only suitable for girls, and others only for boys.",
+    "url": "http://lettoysbetoys.org.uk",
+    "tags": ["", ""],
+    "locations": "UK",
+    "logo": ""
+  },
+  {
+    "name": "Greenlight 4 Girls",
+    "description": "Greenlight for girls is an international organisation dedicated to inspire girls of all ages and backgrounds to pursue STEM subjects - Science, Technology, Engineering and Mathematics - by introducing them to the world of science in fun and exciting ways!",
+    "url": "http://greenlightforgirls.org",
+    "tags": ["", ""],
+    "locations": "Global (based in Brussels)",
+    "logo": ""
+  },
+  {
+    "name": "STEMettes",
+    "description": "We’re showing the next generation that girls do Science, Technology, Engineering & Maths (STEM) too at our free, fun, food-filled experiences.",
+    "url": "http://stemettes.org",
+    "tags": ["STEM", "girl"],
+    "locations": "UK",
+    "logo": ""
+  },
+  {
+    "name": "Tech Mums",
+    "description": "We help mums to harness the power of technology. Learn about social media, online safety, coding and more in our free workshops.",
+    "url": "http://techmums.co",
+    "tags": ["Tech", "Code", "Mothers"],
+    "locations": "UK and online",
+    "logo": ""
+  },
+  {
+    "name": "Women of the World Festival",
+    "description": "WOW – Women of the World festival celebrates women and girls, and looks at the obstacles that stop them from achieving their potential.",
+    "url": "https://www.southbankcentre.co.uk/whats-on/festivals-series/women-of-the-world/wow-global#68270",
+    "tags": ["diversity", "inclusivity"],
+    "locations": "Global",
+    "logo": ""
+  },
+  {
+    "name": "Anita Borg Institute",
+    "description": "At AnitaB.org, we envision a future where the people who imagine and build technology mirror the people and societies for whom they build it. We connect, inspire, and guide women in computing, and organizations that view technology innovation as a strategic imperative.",
+    "url": "https://anitab.org/",
+    "tags": ["tech", "womenintech", "diversity"],
+    "locations": "Global",
+    "logo": ""
+  },
+  {
+    "name": "Geek Girl MeetUp",
+    "description": "A group of passionate women working in tech, design and startups.",
+    "url": "http://www.geekgirlmeetup.co.uk/",
+    "tags": ["design", "IT", "code"],
+    "locations": "UK",
+    "logo": ""
+  },
+  {
+    "name": "Ladies Of Code",
+    "description": "We are an international community of professional women developers.",
+    "url": "https://www.ladiesofcode.com",
+    "tags": ["tech", "womenintech", "diversity", "software", "code"],
+    "locations": "Global",
+    "logo": ""
+  },
+  {
+    "name": "Django Girls",
+    "description": "Django Girls is a non-profit organization and a community that empowers and helps women to organize free, one-day programming workshops by providing tools, resources and support. We are a volunteer run organization with hundreds of people contributing to bring more amazing women into the world of technology.",
+    "url": "https://djangogirls.org",
+    "tags": ["tech", "womenintech", "diversity", "software", "code"],
+    "locations": "Global",
+    "logo": ""
+  },
+  {
+    "name": "Code First Girls",
+    "description": "Code First: Girls works with companies and with men and women directly, to help increase the number of women in tech",
+    "url": "http://www.codefirstgirls.org.uk",
+    "tags": ["tech", "womenintech", "diversity", "software", "code"],
+    "locations": "UK",
+    "logo": ""
+  },
+  {
+    "name": "Ada's List",
+    "description": "Ada's list is a global community for women in tech, based on principles of inclusion, empowerment and diversity",
+    "url": "http://adaslist.co/",
+    "tags": ["tech", "womenintech", "diversity"],
+    "locations": "UK",
+    "logo": ""
+  },
+  {
+    "name": "Mujeres Nobel",
+    "description": "",
+    "url": "http://www.mujeresnobel.eu/exposicion.html",
+    "tags": ["", ""],
+    "locations": "",
+    "logo": ""
+  },
+  {
+    "name": "EnRedadas, for the Arts and Technology",
+    "description": "EnRedadas works promoting safe spaces for women all ages at the intersection between feminism, arts and technology",
+    "url": "http://www.enredadasnicaragua.blogspot.com",
+    "tags": ["Cyberfeminism", "STEAM"],
+    "locations": "Managua, Nicaragua",
+    "logo": "logoEnRedadasTransparente.png"
+  },
+  {
+    "name": "Karkhana",
+    "description": "Designing learning experiences for kids. Hands on STEAM activities",
+    "url": "http://www.karkhana.asia/",
+    "tags": ["Hands-on", "STEAM"],
+    "locations": "Gyaneshwor, Kathmandu, Nepal",
+    "logo": "adainitiative.jpg"
+  },
+  {
     "name": "The Ada Initiative",
     "description": "The Ada Initiative helps women get and stay involved in open source, open data, open education, and other areas of free and open technology and culture.",
     "url": "http://www.adainitiative.org/",
     "tags": ["startup", "business"],
     "locations": "global",
+    "logo": "adainitiative.jpg"
+  },
+  {
+    "name": "COACh",
+    "description": "Has helped the career advancement of over 20,000 women scientists and engineers in the US, Asia, Africa and Latin America.",
+    "url": "http://coach.uoregon.edu/",
+    "tags": ["science", "engineering", "academia"],
+    "locations": "US, Asia, Africa and Latin America",
     "logo": "adainitiative.jpg"
   },
   {
@@ -37,14 +205,6 @@
     "url": "https://www.pinkprogramming.se/en",
     "tags": ["startup", "business"],
     "locations": "Stockholm, Malmo, Gothemburg",
-    "logo": "pink_programming.png"
-  },
-  {
-    "name": "Women Techmakers",
-    "description": "Google's Women Techmakers program provides visibility, community, and resources for women in technology.",
-    "url": "https://www.womentechmakers.com/",
-    "tags": ["startup", "business"],
-    "locations": "global",
-    "logo": "womentechmakers.png"
+    "logo": "socityof-womenengineers.jpg"
   }
 ]
