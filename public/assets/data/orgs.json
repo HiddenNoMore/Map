@@ -5,6 +5,7 @@
     "url": "http://www.mujeresporafrica.es/en",
     "tags": ["Women", "Africa", "Science", "Entrepeneur", "Entrepreneurship", "NGO"],
     "locations": "Africa, Spain",
+    "positions": [{"lat": 40.4545770, "lng": -3.6897810},{"lat": -8.7831950, "lng": 34.5085230}],
     "logo": ""
   },
   {
@@ -13,6 +14,7 @@
     "url": "http://www.amit-es.org/",
     "tags": ["Science", "Women", "Technology", "Association", "Spain"],
     "locations": "Spain",
+    "positions": [{"lat": 40.4636670, "lng": -3.7492200}],
     "logo": ""
   },
   {
@@ -21,6 +23,7 @@
     "url": "http://www.cnio.es/es/women-science/index.asp",
     "tags": ["Science", "Women", "gender equality"],
     "locations": "Madrid, Spain",
+    "positions": [{"lat": 40.4167750, "lng": -3.7037900}],
     "logo": ""
   },
   {
@@ -29,6 +32,7 @@
     "url": "http://girlswhocode.com",
     "tags": ["code", "software", "girls", "after school"],
     "locations": "USA",
+    "positions": [{"lat": 37.0902400, "lng": -95.7128910}],
     "logo": ""
   },
   {
@@ -37,6 +41,7 @@
     "url": "https://chicktech.org",
     "tags": ["tech", "womenintech", "diversity", "tech", "teen"],
     "locations": "USA",
+    "positions": [{"lat": 37.0902400, "lng": -95.7128910}],
     "logo": ""
   },
   {
@@ -45,6 +50,7 @@
     "url": "",
     "tags": ["", ""],
     "locations": "",
+    "positions": [{"lat": 54.9558390, "lng": -7.7342790}],
     "logo": ""
   },
   {
@@ -53,6 +59,7 @@
     "url": "http://lettoysbetoys.org.uk",
     "tags": ["", ""],
     "locations": "UK",
+    "positions": [{"lat": 55.3780510, "lng": -3.4359730}],
     "logo": ""
   },
   {
@@ -61,6 +68,7 @@
     "url": "http://greenlightforgirls.org",
     "tags": ["", ""],
     "locations": "Global (based in Brussels)",
+    "positions": [{"lat": 50.8503460, "lng": 4.3517210}],
     "logo": ""
   },
   {
@@ -69,6 +77,7 @@
     "url": "http://stemettes.org",
     "tags": ["STEM", "girl"],
     "locations": "UK",
+    "positions": [{"lat": 55.3780510, "lng": -3.4359730}],
     "logo": ""
   },
   {
@@ -77,6 +86,7 @@
     "url": "http://techmums.co",
     "tags": ["Tech", "Code", "Mothers"],
     "locations": "UK and online",
+    "positions": [{"lat": 55.3780510, "lng": -3.4359730}],
     "logo": ""
   },
   {
@@ -85,6 +95,7 @@
     "url": "https://www.southbankcentre.co.uk/whats-on/festivals-series/women-of-the-world/wow-global#68270",
     "tags": ["diversity", "inclusivity"],
     "locations": "Global",
+    "positions": [{"lat": 55.3780510, "lng": -3.4359730}],
     "logo": ""
   },
   {
@@ -93,6 +104,7 @@
     "url": "https://anitab.org/",
     "tags": ["tech", "womenintech", "diversity"],
     "locations": "Global",
+    "positions": [{"lat": 37.4418830, "lng": -122.1430190}],
     "logo": ""
   },
   {
@@ -101,6 +113,7 @@
     "url": "http://www.geekgirlmeetup.co.uk/",
     "tags": ["design", "IT", "code"],
     "locations": "UK",
+    "positions": [{"lat": 55.3780510, "lng": -3.4359730}],
     "logo": ""
   },
   {
@@ -109,6 +122,7 @@
     "url": "https://www.ladiesofcode.com",
     "tags": ["tech", "womenintech", "diversity", "software", "code"],
     "locations": "Global",
+    "positions": [{"lat": 51.5073510, "lng": -0.1277580}, {"lat": 48.8566140, "lng": 2.3522220}, {"lat": 55.8642370, "lng": -4.2518060}],
     "logo": ""
   },
   {
@@ -117,6 +131,7 @@
     "url": "https://djangogirls.org",
     "tags": ["tech", "womenintech", "diversity", "software", "code"],
     "locations": "Global",
+    "positions": [],
     "logo": ""
   },
   {
@@ -125,6 +140,7 @@
     "url": "http://www.codefirstgirls.org.uk",
     "tags": ["tech", "womenintech", "diversity", "software", "code"],
     "locations": "UK",
+    "positions": [{"lat": 55.3780510, "lng": -3.4359730}],
     "logo": ""
   },
   {
@@ -133,6 +149,7 @@
     "url": "http://adaslist.co/",
     "tags": ["tech", "womenintech", "diversity"],
     "locations": "UK",
+    "positions": [{"lat": 55.3780510, "lng": -3.4359730}],
     "logo": ""
   },
   {
@@ -141,6 +158,7 @@
     "url": "http://www.mujeresnobel.eu/exposicion.html",
     "tags": ["", ""],
     "locations": "",
+    "positions": [],
     "logo": ""
   },
   {
@@ -149,6 +167,7 @@
     "url": "http://www.enredadasnicaragua.blogspot.com",
     "tags": ["Cyberfeminism", "STEAM"],
     "locations": "Managua, Nicaragua",
+    "positions": [],
     "logo": "logoEnRedadasTransparente.png"
   },
   {
@@ -157,6 +176,7 @@
     "url": "http://www.karkhana.asia/",
     "tags": ["Hands-on", "STEAM"],
     "locations": "Gyaneshwor, Kathmandu, Nepal",
+    "positions": [],
     "logo": "adainitiative.jpg"
   },
   {
@@ -164,7 +184,8 @@
     "description": "The Ada Initiative helps women get and stay involved in open source, open data, open education, and other areas of free and open technology and culture.",
     "url": "http://www.adainitiative.org/",
     "tags": ["startup", "business"],
-    "locations": "global",
+    "locations": "Global",
+    "positions": [],
     "logo": "adainitiative.jpg"
   },
   {
@@ -173,6 +194,7 @@
     "url": "http://coach.uoregon.edu/",
     "tags": ["science", "engineering", "academia"],
     "locations": "US, Asia, Africa and Latin America",
+    "positions": [{"lat": 37.0902400, "lng": -95.7128910}],
     "logo": "adainitiative.jpg"
   },
   {
@@ -181,6 +203,7 @@
     "url": "http://www.anitaborg.org/",
     "tags": ["startup", "business"],
     "locations": "us",
+    "positions": [{"lat": 37.0902400, "lng": -95.7128910}],
     "logo": "anitaporginstitute.jpg"
   },
   {
@@ -189,6 +212,7 @@
     "url": "www.passion-projects.github.com",
     "tags": ["startup", "business"],
     "locations": "online",
+    "positions": [{"lat": 37.0902400, "lng": -95.7128910}],
     "logo": "passionprojects.jpg"
   },
   {
@@ -196,7 +220,8 @@
     "description": "For more than six decades, SWE has given women engineers a unique place and voice within the engineering industry. Our organization is centered around a passion for our members' success and continues to evolve with the challenges and opportunities reflected in today's exciting engineering and technology specialties.",
     "url": "http://societyofwomenengineers.swe.org/",
     "tags": ["startup", "business"],
-    "locations": "global",
+    "locations": "Global",
+    "positions": [{"lat": 37.0902400, "lng": -95.7128910}],
     "logo": "socityof-womenengineers.jpg"
   },
   {
@@ -205,6 +230,7 @@
     "url": "https://www.pinkprogramming.se/en",
     "tags": ["startup", "business"],
     "locations": "Stockholm, Malmo, Gothemburg",
+    "positions": [{"lat": 37.0902400, "lng": -95.7128910}],
     "logo": "socityof-womenengineers.jpg"
   }
 ]
