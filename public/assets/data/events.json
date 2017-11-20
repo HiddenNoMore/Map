@@ -17,11 +17,23 @@
     "address": "TechHub Bucharest, 39-41 Nicolae Filipescu, Bucharest, Romania",
     "start-date": "2017-11-21",
     "start-time": "18:30",
-    "end-date": "2017-09-19",
+    "end-date": "2017-11-21",
     "end-time": "21:30",
     "organisation": "https://www.facebook.com/codette.ro",
     "url":"https://www.facebook.com/events/156588191747052",
     "tags": ["Codette", "meetup", "women", "professionals", "IT&C", "entrepreneurship"]
+  },
+  {
+    "name": "IoT4Girls",
+    "description": "A workshop for high school girls, where in just 2 days the participants build a piano that they control from a web page. More details on the schedule and how to apply here: https://www.facebook.com/events/776786975857870/",
+    "address": "TechHub Bucharest, 39-41 Nicolae Filipescu, Bucharest, Romania",
+    "start-date": "2017-11-25",
+    "start-time": "09:00",
+    "end-date": "2017-11-26",
+    "end-time": "17:00",
+    "organisation": "http://codette.ro/",
+    "url":"https://www.facebook.com/events/776786975857870",
+    "tags": ["Codette", "workshop", "IoT", "Internet of Things", "Arduino", "web development", "high school", "girl", "girls"]
   },
   {
     "name": "Mujeres Nobel",
