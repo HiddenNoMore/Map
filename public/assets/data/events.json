@@ -12,6 +12,18 @@
     "tags": ["annual", "Science", "Kids", "Technology", "Museum", "Activities"]
   },
   {
+    "name": "Codette Stories",
+    "description": "A meetup that promotes women technologists - open for all! More info on the speakers and their presentations: https://www.facebook.com/events/156588191747052/",
+    "address": "TechHub Bucharest, 39-41 Nicolae Filipescu, Bucharest, Romania",
+    "start-date": "2017-11-21",
+    "start-time": "18:30",
+    "end-date": "2017-09-19",
+    "end-time": "21:30",
+    "organisation": "https://www.facebook.com/codette.ro",
+    "url":"https://www.facebook.com/events/156588191747052",
+    "tags": ["Codette", "meetup", "women", "professionals", "IT&C", "entrepreneurship"]
+  },
+  {
     "name": "Mujeres Nobel",
     "description": "Exhibition on a selection of 12 women that have received the Nobel Prize in every category since its inception. The objective to raise awareness in society on the role of women in many disciplines and their contribution.",
     "address": "Museo Nacional de Ciencias Naturales. C/ José Gutiérrez Abascal, 2. Madrid. Spain.",
