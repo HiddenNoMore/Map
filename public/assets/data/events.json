@@ -10,6 +10,42 @@
     "organisation": "http://www.mncn.csic.es/Menu/Actividades/PublicoIndividual/Otrasactividades_Semana_Ciencia_2017/seccion=1189&idioma=es_ES&id=2016101722570001&activo=11.do",
     "url":"http://www.mncn.csic.es/Menu/Actividades/PublicoIndividual/Otrasactividades_Semana_Ciencia_2017/seccion=1189&idioma=es_ES&id=2016101722570001&activo=11.do",
     "tags": ["annual", "Science", "Kids", "Technology", "Museum", "Activities"]
+   },
+   {
+    "name": "TechWomen",
+    "description": "TechWomen empowers, connects and supports the next generation of women leaders in STEM from Africa, Central and South Asia, and the Middle East through mentorship and exchange",
+    "address": "USA",
+    "start-date": "2018-09-01",
+    "start-time": "09:00",
+    "end-date": "2018-10-15",
+    "end-time": "23:59",
+    "organisation": "https://www.techwomen.org/about-us/connect",
+    "url":"https://www.techwomen.org/",
+    "tags": ["Exchange Programs", "Tech", "Women"]
+  },
+  {
+    "name": "Codette Stories",
+    "description": "A meetup that promotes women technologists - open for all! More info on the speakers and their presentations: https://www.facebook.com/events/156588191747052/",
+    "address": "TechHub Bucharest, 39-41 Nicolae Filipescu, Bucharest, Romania",
+    "start-date": "2017-11-21",
+    "start-time": "18:30",
+    "end-date": "2017-11-21",
+    "end-time": "21:30",
+    "organisation": "https://www.facebook.com/codette.ro",
+    "url":"https://www.facebook.com/events/156588191747052",
+    "tags": ["Codette", "meetup", "women", "professionals", "IT&C", "entrepreneurship"]
+  },
+  {
+    "name": "IoT4Girls",
+    "description": "A workshop for high school girls, where in just 2 days the participants build a piano that they control from a web page. More details on the schedule and how to apply here: https://www.facebook.com/events/776786975857870/",
+    "address": "Splaiul Independenței nr. 313, 060042 Bucharest, Romania",
+    "start-date": "2017-11-25",
+    "start-time": "09:00",
+    "end-date": "2017-11-26",
+    "end-time": "17:00",
+    "organisation": "http://codette.ro/",
+    "url":"https://www.facebook.com/events/776786975857870",
+    "tags": ["Codette", "workshop", "IoT", "Internet of Things", "Arduino", "web development", "high school", "girl", "girls"]
   },
   {
     "name": "Mujeres Nobel",
