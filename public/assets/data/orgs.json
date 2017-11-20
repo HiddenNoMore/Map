@@ -154,7 +154,7 @@
   },
   {
     "name": "Mujeres Nobel",
-    "description": "The exhibition Nobel Women intends to honor and make known a selection of twelve women awarded in each of the disciplines established by Alfred Nobel in his will, as well as Alfred Nobel himself, philanthropist who bequeathed to the world the most prestigious awards. Two women were included who were on the verge of obtaining the award: the Polish Irena Sendler and the Spanish Concha Espina.",
+    "description": "The exhibition Nobel Women intends to honor and make known a selection of twelve women awarded in each of the disciplines established by Alfred Nobel in his will, as well as Alfred Nobel himself, philanthropist who bequeathed to the world the most prestigious awards. Two women were included who were on the verge of obtaining the award.",
     "url": "http://www.mujeresnobel.eu/exposicion.html",
     "tags": ["", ""],
     "locations": "",
@@ -172,7 +172,7 @@
   },
   {
     "name": "Karkhana",
-    "description": "Designing learning experiences for kids. Hands on STEAM activities",
+    "description": "Designing learning experiences for kids. Hands on STEAM activities. Karkhana is an education company and makerspace with a unique approach to learning. Our teachers – engineers, designers, artists, scientists – turn the classroom into a lab for discovery. We want our students to gain one key insight: the world is malleable.",
     "url": "http://www.karkhana.asia/",
     "tags": ["Hands-on", "STEAM"],
     "locations": "Gyaneshwor, Kathmandu, Nepal",
@@ -208,7 +208,7 @@
   },
   {
     "name": "Passion Projects",
-    "description": "Talks from incredible women in tech every month.",
+    "description": "Talks from incredible women in tech every month. The idea for Passion Projects was spurred from an internal conversation about building a more female-friendly engineering culture at GitHub.",
     "url": "www.passion-projects.github.com",
     "tags": ["startup", "business"],
     "locations": "online",
