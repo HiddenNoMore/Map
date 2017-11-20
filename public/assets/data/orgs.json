@@ -6,7 +6,7 @@
     "tags": ["Women", "Africa", "Science", "Entrepeneur", "Entrepreneurship", "NGO"],
     "locations": "Africa, Spain",
     "positions": [{"lat": 40.4545770, "lng": -3.6897810},{"lat": -8.7831950, "lng": 34.5085230}],
-    "logo": ""
+    "logo": "ma.png"
   },
   {
     "name": "Asociación de Mujeres Investigadoras y Tecnológas (AMIT)",
@@ -15,7 +15,7 @@
     "tags": ["Science", "Women", "Technology", "Association", "Spain"],
     "locations": "Spain",
     "positions": [{"lat": 40.4636670, "lng": -3.7492200}],
-    "logo": ""
+    "logo": "amit.png"
   },
   {
     "name": "CNIO Women in Science (WISE)",
@@ -24,16 +24,16 @@
     "tags": ["Science", "Women", "gender equality"],
     "locations": "Madrid, Spain",
     "positions": [{"lat": 40.4167750, "lng": -3.7037900}],
-    "logo": ""
+    "logo": "cnio.png"
   },
   {
     "name": "Girls Who Code",
-    "description": "Girls Who Code free after school Clubs launch for 2017-2018, introducing coding to 30K girls",
+    "description": "Girls Who Code was founded with a single mission: to close the gender gap in technology. Girls Who Code was founded five years ago with the belief that computing skills are a critical path to security and prosperity in today’s job market. What began with 20 girls in the heart of New York City, Girls Who Code will reach 40,000 girls in all 50 U.S. states by the end of this year.",
     "url": "http://girlswhocode.com",
     "tags": ["code", "software", "girls", "after school"],
     "locations": "USA",
     "positions": [{"lat": 37.0902400, "lng": -95.7128910}],
-    "logo": ""
+    "logo": "gwc.png"
   },
   {
     "name": "Chick Tech",
@@ -42,16 +42,16 @@
     "tags": ["tech", "womenintech", "diversity", "tech", "teen"],
     "locations": "USA",
     "positions": [{"lat": 37.0902400, "lng": -95.7128910}],
-    "logo": ""
+    "logo": "ct.png"
   },
   {
     "name": "Lottie Dolls",
     "description": "",
-    "url": "",
+    "url": "https://www.lottie.com/",
     "tags": ["", ""],
     "locations": "",
     "positions": [{"lat": 54.9558390, "lng": -7.7342790}],
-    "logo": ""
+    "logo": "lottie.png"
   },
   {
     "name": "Let Toys Be Toys",
@@ -60,7 +60,7 @@
     "tags": ["", ""],
     "locations": "UK",
     "positions": [{"lat": 55.3780510, "lng": -3.4359730}],
-    "logo": ""
+    "logo": "lettoysbetoys.png"
   },
   {
     "name": "Greenlight 4 Girls",
@@ -69,7 +69,7 @@
     "tags": ["", ""],
     "locations": "Global (based in Brussels)",
     "positions": [{"lat": 50.8503460, "lng": 4.3517210}],
-    "logo": ""
+    "logo": "greenlightforgirls.png"
   },
   {
     "name": "STEMettes",
@@ -78,7 +78,7 @@
     "tags": ["STEM", "girl"],
     "locations": "UK",
     "positions": [{"lat": 55.3780510, "lng": -3.4359730}],
-    "logo": ""
+    "logo": "stemettes.png"
   },
   {
     "name": "Tech Mums",
@@ -87,7 +87,7 @@
     "tags": ["Tech", "Code", "Mothers"],
     "locations": "UK and online",
     "positions": [{"lat": 55.3780510, "lng": -3.4359730}],
-    "logo": ""
+    "logo": "tm.png"
   },
   {
     "name": "Women of the World Festival",
@@ -96,7 +96,7 @@
     "tags": ["diversity", "inclusivity"],
     "locations": "Global",
     "positions": [{"lat": 55.3780510, "lng": -3.4359730}],
-    "logo": ""
+    "logo": "wow.png"
   },
   {
     "name": "Anita Borg Institute",
@@ -105,7 +105,7 @@
     "tags": ["tech", "womenintech", "diversity"],
     "locations": "Global",
     "positions": [{"lat": 37.4418830, "lng": -122.1430190}],
-    "logo": ""
+    "logo": "ab.png"
   },
   {
     "name": "Geek Girl MeetUp",
@@ -136,7 +136,7 @@
   },
   {
     "name": "Code First Girls",
-    "description": "Code First: Girls works with companies and with men and women directly, to help increase the number of women in tech",
+    "description": "Code First: Girls work with companies and with men and women directly, to help increase the number of women in tech. Code First: Girls is a multi-award winning social enterprise, and we raise our revenues through a combination of sponsorship and corporate services. All our profits get plugged back into running the free community courses and other activities we run with smart women who want to build careers in tech and entrepreneurship. We teach 2000+  women and men how to code each year.",
     "url": "http://www.codefirstgirls.org.uk",
     "tags": ["tech", "womenintech", "diversity", "software", "code"],
     "locations": "UK",
