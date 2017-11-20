@@ -114,7 +114,7 @@
     "tags": ["design", "IT", "code"],
     "locations": "UK",
     "positions": [{"lat": 55.3780510, "lng": -3.4359730}],
-    "logo": ""
+    "logo": "ggm.png"
   },
   {
     "name": "Ladies Of Code",
@@ -123,7 +123,7 @@
     "tags": ["tech", "womenintech", "diversity", "software", "code"],
     "locations": "Global",
     "positions": [{"lat": 51.5073510, "lng": -0.1277580}, {"lat": 48.8566140, "lng": 2.3522220}, {"lat": 55.8642370, "lng": -4.2518060}],
-    "logo": ""
+    "logo": "loc.png"
   },
   {
     "name": "Django Girls",
@@ -132,7 +132,7 @@
     "tags": ["tech", "womenintech", "diversity", "software", "code"],
     "locations": "Global",
     "positions": [],
-    "logo": ""
+    "logo": "dg.png"
   },
   {
     "name": "Code First Girls",
@@ -141,7 +141,7 @@
     "tags": ["tech", "womenintech", "diversity", "software", "code"],
     "locations": "UK",
     "positions": [{"lat": 55.3780510, "lng": -3.4359730}],
-    "logo": ""
+    "logo": "cfg.png"
   },
   {
     "name": "Ada's List",
@@ -150,16 +150,16 @@
     "tags": ["tech", "womenintech", "diversity"],
     "locations": "UK",
     "positions": [{"lat": 55.3780510, "lng": -3.4359730}],
-    "logo": ""
+    "logo": "a.png"
   },
   {
     "name": "Mujeres Nobel",
-    "description": "",
+    "description": "The exhibition Nobel Women intends to honor and make known a selection of twelve women awarded in each of the disciplines established by Alfred Nobel in his will, as well as Alfred Nobel himself, philanthropist who bequeathed to the world the most prestigious awards. Two women were included who were on the verge of obtaining the award: the Polish Irena Sendler and the Spanish Concha Espina.",
     "url": "http://www.mujeresnobel.eu/exposicion.html",
     "tags": ["", ""],
     "locations": "",
     "positions": [],
-    "logo": ""
+    "logo": "mn.png"
   },
   {
     "name": "EnRedadas, for the Arts and Technology",
@@ -168,7 +168,7 @@
     "tags": ["Cyberfeminism", "STEAM"],
     "locations": "Managua, Nicaragua",
     "positions": [],
-    "logo": "logoEnRedadasTransparente.png"
+    "logo": "EnREDadas.png"
   },
   {
     "name": "Karkhana",
@@ -177,7 +177,7 @@
     "tags": ["Hands-on", "STEAM"],
     "locations": "Gyaneshwor, Kathmandu, Nepal",
     "positions": [],
-    "logo": "adainitiative.jpg"
+    "logo": "karkhana.png"
   },
   {
     "name": "The Ada Initiative",
@@ -195,7 +195,7 @@
     "tags": ["science", "engineering", "academia"],
     "locations": "US, Asia, Africa and Latin America",
     "positions": [{"lat": 37.0902400, "lng": -95.7128910}],
-    "logo": "adainitiative.jpg"
+    "logo": "coach.png"
   },
   {
     "name": "Anita Borg Institute",
@@ -231,6 +231,6 @@
     "tags": ["startup", "business"],
     "locations": "Stockholm, Malmo, Gothemburg",
     "positions": [{"lat": 37.0902400, "lng": -95.7128910}],
-    "logo": "socityof-womenengineers.jpg"
+    "logo": "pink.png"
   }
 ]
