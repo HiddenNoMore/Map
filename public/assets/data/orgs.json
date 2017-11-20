@@ -9,6 +9,15 @@
     "logo": "ma.png"
   },
   {
+    "name": "BONEVET Makerspace",
+    "description": "BONEVET is a non-profit community center where people gather to share resources and knowledge, work on projects, network, and build. It is an informal combination of a lab, a shop and a conference room which encourages “hands-on” exploration by providing resources that are usually unavailable to individuals working alone. Through this, we want to nurture a vibrant community of idea and resource sharing among its makers, which will foster character building traits like grit, creativity, open-mindedness, social responsibility and most importantly team work. To support this mission, we offer: A fully equipped and professionally maintained manufacturing facility, which includes capabilities for precision metal machining, electronics, robotics, automation, 3D printing, computer-aided design, programming, Arduino, LittleBits etc. A fully equipped and professionally maintained space dedicated only for kids in order to inflict the spirit of making by re-energizing education with the creativity, innovation, curiosity, motivation, technical know-how, and playfulness that characterize our maker community. A variety of affordable, engineering-oriented pursuits on a spectrum from expert-led to independent. The experts teach the aspiring makers the concepts, the skills and the resources which the makers will turn into real prototypes, allowing them to truly learn by doing. Expert advisors/mentors who are available to support our members. Monthly and daily membership plans for interested individuals, encouraging Do-It-Yourself culture and the maker mindset. On-site material storage and on-site project storage, allowing community members to create and store projects without the hassle of handling material and storage logistics.",
+    "url": "http://www.bonevet.org/",
+    "tags": ["Makerspace", "Makerkids"],
+    "locations": "Str. Vëllezërit Frashëri, Gjakovë 50000, Kosovo",
+    "positions": [{"lat": 42.379951, "lng": 20.428718}],
+    "logo": "bonevet.png"
+  },
+  {
     "name": "Asociación de Mujeres Investigadoras y Tecnológas (AMIT)",
     "description": "Spanish NGO composed by scientist and technologist from different fields that work in Science, Technology or management of science and technology in organizations or public and private Spanish research centers.",
     "url": "http://www.amit-es.org/",
