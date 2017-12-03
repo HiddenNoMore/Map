@@ -9,6 +9,15 @@
     "logo": "ma.png"
   },
   {
+    "name": "Stockholm Makerspace",
+    "description": "Stockholm Makerspace is a non-profit organization. The 300sqm space and machine park is crowd-funded by its members. Hosting 3D-printers, electronics equipment, laser cutter and dedicated rooms for paint work, bitechnology, sewing, wood and metallurgy. Featuring women-only courses in welding, with more to come. Welcome to explore the frontiers between tech, art and crafts.",
+    "url": "http://makerspace.se/",
+    "tags": ["Makerspace", "Kids", "tech", "3Dprinting", "metallurgy", "woodshop", "workshop", "crafts", "Hack-a-Day"],
+    "locations": "Drottning Kristinas väg 53, 114 28 Stockholm, Sweden",
+    "positions": [{"lat": 59.350486, "lng": 18.06769}],
+    "logo": "Stholm_makerspace_logo-transparent-250px.png"
+  },
+  {
     "name": "BONEVET Makerspace",
     "description": "BONEVET is a non-profit community center where people gather to share resources and knowledge, work on projects, network, and build. It is an informal combination of a lab, a shop and a conference room which encourages “hands-on” exploration by providing resources that are usually unavailable to individuals working alone. Through this, we want to nurture a vibrant community of idea and resource sharing among its makers, which will foster character building traits like grit, creativity, open-mindedness, social responsibility and most importantly team work. To support this mission, we offer: A fully equipped and professionally maintained manufacturing facility, which includes capabilities for precision metal machining, electronics, robotics, automation, 3D printing, computer-aided design, programming, Arduino, LittleBits etc. A fully equipped and professionally maintained space dedicated only for kids in order to inflict the spirit of making by re-energizing education with the creativity, innovation, curiosity, motivation, technical know-how, and playfulness that characterize our maker community. A variety of affordable, engineering-oriented pursuits on a spectrum from expert-led to independent. The experts teach the aspiring makers the concepts, the skills and the resources which the makers will turn into real prototypes, allowing them to truly learn by doing. Expert advisors/mentors who are available to support our members. Monthly and daily membership plans for interested individuals, encouraging Do-It-Yourself culture and the maker mindset. On-site material storage and on-site project storage, allowing community members to create and store projects without the hassle of handling material and storage logistics.",
     "url": "http://www.bonevet.org/",
