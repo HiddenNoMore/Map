@@ -262,7 +262,7 @@
   },
     {
     "name": "Pink Programming",
-    "description": "Pink Programming is a non-profit organization. We exist to enable more women to discover the joy of programming. Our goal is to increase the proportion of women working in the tech industry. We believe this is good for equality and equal opportunity for all. We host monthly Sunday meetups and camps on differnet locations about town.",
+    "description": "Pink Programming is a non-profit organization. We exist to enable more women to discover the joy of programming. Our goal is to increase the proportion of women working in the tech industry. We believe this is good for equality and equal opportunity for all.\nWe host monthly Sunday meetups and camps on differnet locations about town.",
     "url": "https://www.pinkprogramming.se/en",
     "tags": ["code", "software", "meetup"],
     "locations": "Malmö, Sweden",
