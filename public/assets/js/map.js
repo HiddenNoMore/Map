@@ -96,7 +96,7 @@ function initMap() {
       for (var index = 0; index < prop.tags.length; index++) {
         var tags = tags+ '<span class="badge">' + prop.tags[index]+'</span>';
       }
-      var content = '<div class="event"><p><a href="' + prop.url + '" ><h4>' + prop.name + "</h4></a></p> " +
+      var content = '<div class="event"><img src = "assets/data/img/'+ prop.logo +'" width="280" ><p><a href="' + prop.url + '" ><h4>' + prop.name + "</h4></a></p> " +
         "<p>" + prop.description+ "</p>" +
         "<p>" + tags+ "</p>";
       var infowindow = new google.maps.InfoWindow({
