@@ -237,14 +237,14 @@
     "name": "Society of Women Engineers",
     "description": "For more than six decades, SWE has given women engineers a unique place and voice within the engineering industry. Our organization is centered around a passion for our members' success and continues to evolve with the challenges and opportunities reflected in today's exciting engineering and technology specialties.",
     "url": "http://societyofwomenengineers.swe.org/",
-    "tags": ["engineering", "business"],
-    "locations": "Global",
-    "positions": [{"lat": 37.0902400, "lng": -95.7128910}],
+    "tags": ["engineering", "global"],
+    "locations": "130 East Randolph Street, Suite 3500, 60601 Chicago, Illinois, USA",
+    "positions": [{"lat": 41.885074, "lng": -87.62312}],
     "logo": "socityof-womenengineers.jpg"
   },
   {
     "name": "Pink Programming",
-    "description": "Pink Programming is a non-profit organization. We exist to enable more women to discover the joy of programming. Our goal is to increase the proportion of women working in the tech industry. We believe this is good for equality and equal opportunity for all. We host monthly Sunday meetups and camps on differnet locations about town.",
+    "description": "Pink Programming is a non-profit organization. We exist to enable more women to discover the joy of programming. Our goal is to increase the proportion of women working in the tech industry. We believe this is good for equality and equal opportunity for all.<br><br>We host monthly Sunday meetups and camps on differnet locations about town.",
     "url": "https://www.pinkprogramming.se/en",
     "tags": ["code", "software", "meetup"],
     "locations": "Stockholm, Sweden",
@@ -253,7 +253,7 @@
   },
     {
     "name": "Pink Programming",
-    "description": "Pink Programming is a non-profit organization. We exist to enable more women to discover the joy of programming. Our goal is to increase the proportion of women working in the tech industry. We believe this is good for equality and equal opportunity for all. We host monthly Sunday meetups and camps on differnet locations about town.",
+    "description": "Pink Programming is a non-profit organization. We exist to enable more women to discover the joy of programming. Our goal is to increase the proportion of women working in the tech industry. We believe this is good for equality and equal opportunity for all.<br><br>We host monthly Sunday meetups and camps on differnet locations about town.",
     "url": "https://www.pinkprogramming.se/en",
     "tags": ["code", "software", "meetup"],
     "locations": "Gothenburg, Sweden",
@@ -262,7 +262,7 @@
   },
     {
     "name": "Pink Programming",
-    "description": "Pink Programming is a non-profit organization. We exist to enable more women to discover the joy of programming. Our goal is to increase the proportion of women working in the tech industry. We believe this is good for equality and equal opportunity for all.<br>We host monthly Sunday meetups and camps on differnet locations about town.",
+    "description": "Pink Programming is a non-profit organization. We exist to enable more women to discover the joy of programming. Our goal is to increase the proportion of women working in the tech industry. We believe this is good for equality and equal opportunity for all.<br><br>We host monthly Sunday meetups and camps on differnet locations about town.",
     "url": "https://www.pinkprogramming.se/en",
     "tags": ["code", "software", "meetup"],
     "locations": "Malmö, Sweden",
