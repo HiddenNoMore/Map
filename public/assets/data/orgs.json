@@ -57,25 +57,16 @@
     "name": "Chick Tech",
     "description": "ChickTech is a nonprofit dedicated to retaining women in the technology workforce and increasing the number of women and girls pursuing technology-based careers.",
     "url": "https://chicktech.org",
-    "tags": ["tech", "womenintech", "diversity", "tech", "teen"],
-    "locations": "USA",
-    "positions": [{"lat": 37.0902400, "lng": -95.7128910}],
+    "tags": ["tech", "womenintech", "diversity", "tech", "teen", "USA"],
+    "locations": "ChickTech HQ, 921 SW Washington St, Portland, OR 97205, USA",
+    "positions": [{"lat": 45.521366, "lng": -122.680792}],
     "logo": "ct.png"
-  },
-  {
-    "name": "Lottie Dolls",
-    "description": "",
-    "url": "https://www.lottie.com/",
-    "tags": ["", ""],
-    "locations": "",
-    "positions": [{"lat": 54.9558390, "lng": -7.7342790}],
-    "logo": "lottie.png"
   },
   {
     "name": "Let Toys Be Toys",
     "description": "Let Toys Be Toys campaign is asking the toy and publishing industries to stop limiting children’s interests by promoting some toys and books as only suitable for girls, and others only for boys.",
     "url": "http://lettoysbetoys.org.uk",
-    "tags": ["", ""],
+    "tags": ["toys", "kids"],
     "locations": "UK",
     "positions": [{"lat": 55.3780510, "lng": -3.4359730}],
     "logo": "lettoysbetoys.png"
@@ -112,21 +103,12 @@
     "description": "WOW – Women of the World festival celebrates women and girls, and looks at the obstacles that stop them from achieving their potential.",
     "url": "https://www.southbankcentre.co.uk/whats-on/festivals-series/women-of-the-world/wow-global#68270",
     "tags": ["diversity", "inclusivity"],
-    "locations": "Global",
-    "positions": [{"lat": 55.3780510, "lng": -3.4359730}],
+    "locations": "Southbank Centre, Belvedere Rd, Lambeth, London SE1 8XX, UK",
+    "positions": [{"lat": 51.5062, "lng": -0.116392}],
     "logo": "wow.png"
   },
   {
-    "name": "Anita Borg Institute",
-    "description": "At AnitaB.org, we envision a future where the people who imagine and build technology mirror the people and societies for whom they build it. We connect, inspire, and guide women in computing, and organizations that view technology innovation as a strategic imperative.",
-    "url": "https://anitab.org/",
-    "tags": ["tech", "womenintech", "diversity"],
-    "locations": "Global",
-    "positions": [{"lat": 37.4418830, "lng": -122.1430190}],
-    "logo": "ab.png"
-  },
-  {
-    "name": "Geek Girl MeetUp",
+    "name": "Geek Girl MeetUp UK",
     "description": "A group of passionate women working in tech, design and startups.",
     "url": "http://www.geekgirlmeetup.co.uk/",
     "tags": ["design", "IT", "code"],
@@ -147,9 +129,9 @@
     "name": "Django Girls",
     "description": "Django Girls is a non-profit organization and a community that empowers and helps women to organize free, one-day programming workshops by providing tools, resources and support. We are a volunteer run organization with hundreds of people contributing to bring more amazing women into the world of technology.",
     "url": "https://djangogirls.org",
-    "tags": ["tech", "womenintech", "diversity", "software", "code"],
-    "locations": "Global",
-    "positions": [],
+    "tags": ["tech", "womenintech", "diversity", "software", "code", "global"],
+    "locations": "United House, North Road, London N7 9DP, UK",
+    "positions": [{"lat": 51.549196, "lng": -0.120399}],
     "logo": "dg.png"
   },
   {
@@ -165,7 +147,7 @@
     "name": "Ada's List",
     "description": "Ada's list is a global community for women in tech, based on principles of inclusion, empowerment and diversity",
     "url": "http://adaslist.co/",
-    "tags": ["tech", "womenintech", "diversity"],
+    "tags": ["tech", "womenintech", "diversity", "UK"],
     "locations": "UK",
     "positions": [{"lat": 55.3780510, "lng": -3.4359730}],
     "logo": "a.png"
@@ -175,8 +157,8 @@
     "description": "The exhibition Nobel Women intends to honor and make known a selection of twelve women awarded in each of the disciplines established by Alfred Nobel in his will, as well as Alfred Nobel himself, philanthropist who bequeathed to the world the most prestigious awards. Two women were included who were on the verge of obtaining the award.",
     "url": "http://www.mujeresnobel.eu/exposicion.html",
     "tags": ["", ""],
-    "locations": "",
-    "positions": [],
+    "locations": "Museo Nacional de Ciencias Naturales Calle de José Gutiérrez Abascal, 2, 28006 Madrid, Spain",
+    "positions": [{"lat": 40.440442, "lng": -3.689617}],
     "logo": "mn.png"
   },
   {
