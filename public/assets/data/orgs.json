@@ -185,43 +185,43 @@
     "url": "http://www.enredadasnicaragua.blogspot.com",
     "tags": ["Cyberfeminism", "STEAM"],
     "locations": "Managua, Nicaragua",
-    "positions": [],
+    "positions": [{"lat": 12.114993, "lng": -86.236174}],
     "logo": "EnREDadas.png"
   },
   {
     "name": "Karkhana",
     "description": "Designing learning experiences for kids. Hands on STEAM activities. Karkhana is an education company and makerspace with a unique approach to learning. Our teachers – engineers, designers, artists, scientists – turn the classroom into a lab for discovery. We want our students to gain one key insight: the world is malleable.",
     "url": "http://www.karkhana.asia/",
-    "tags": ["Hands-on", "STEAM"],
-    "locations": "Gyaneshwor, Kathmandu, Nepal",
-    "positions": [],
+    "tags": ["Hands-on", "STEAM", "kids", "education"],
+    "locations": "Pashupati Rd, Kathmandu 44600, Nepal",
+    "positions": [{"lat": 27.70817, "lng": 85.335017}],
     "logo": "karkhana.png"
   },
   {
     "name": "The Ada Initiative",
     "description": "The Ada Initiative helps women get and stay involved in open source, open data, open education, and other areas of free and open technology and culture.",
     "url": "http://www.adainitiative.org/",
-    "tags": ["startup", "business"],
-    "locations": "Global",
-    "positions": [],
+    "tags": ["Global", "open source", "global"],
+    "locations": "1250 Missouri St #111, San Francisco, CA 94107, USA",
+    "positions": [{"lat": 37.750614, "lng": -122.395701}],
     "logo": "adainitiative.jpg"
   },
   {
     "name": "COACh",
     "description": "Has helped the career advancement of over 20,000 women scientists and engineers in the US, Asia, Africa and Latin America.",
     "url": "http://coach.uoregon.edu/",
-    "tags": ["science", "engineering", "academia"],
-    "locations": "US, Asia, Africa and Latin America",
-    "positions": [{"lat": 37.0902400, "lng": -95.7128910}],
+    "tags": ["science", "engineering", "academia", "US", "Asia", "Africa", "Latin America"],
+    "locations": "Department of Chemistry, 1253 University of Oregon, Eugene OR 97403",
+    "positions": [{"lat": 44.045934, "lng": -123.070499}],
     "logo": "coach.png"
   },
   {
     "name": "Anita Borg Institute",
     "description": "The Anita Borg Institute for Women and Technology is a nonprofit organization founded by computer scientist Anita Borg. The institute’s primary aim is to recruit, retain, and advance women in technology.",
-    "url": "http://www.anitaborg.org/",
-    "tags": ["startup", "business"],
-    "locations": "us",
-    "positions": [{"lat": 37.0902400, "lng": -95.7128910}],
+    "url": "https://anitab.org/",
+    "tags": ["tech", "computer science", "code", "global"],
+    "locations": "1501 Page Mill Road, MS 1105, Palo Alto, CA 94304, US",
+    "positions": [{"lat": 37.411713, "lng": -122.148881}],
     "logo": "anitaporginstitute.jpg"
   },
   {
