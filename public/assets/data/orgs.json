@@ -227,10 +227,10 @@
   {
     "name": "Passion Projects",
     "description": "Talks from incredible women in tech every month. The idea for Passion Projects was spurred from an internal conversation about building a more female-friendly engineering culture at GitHub.",
-    "url": "www.passion-projects.github.com",
-    "tags": ["talks", "tech"],
-    "locations": "online",
-    "positions": [{"lat": 37.0902400, "lng": -95.7128910}],
+    "url": "https://github.com/blog/1433-introducing-passion-projects",
+    "tags": ["talks", "tech", "online", "github"],
+    "locations": "GitHub HQ, 548 4th Street, San Francisco, CA",
+    "positions": [{"lat": 37.77873, "lng": -122.397658}],
     "logo": "passionprojects.jpg"
   },
   {
