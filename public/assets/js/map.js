@@ -2,6 +2,12 @@ var map;
 var markers = [];
 var oms;
 
+function bindInfoWindow(marker, map, infowindow) {
+    marker.addListener('spider_click', function () {
+      infowindow.open(map, marker);
+    });
+} 
+
 function initMap() {
   var myLatLng = { lat: 59.333420, lng: 18.054479 };
   map = new google.maps.Map(document.getElementById('map'), {
@@ -89,7 +95,8 @@ function initMap() {
       console.log("yay" + pp + " " + prop.positions[pp]);
       var marker = new google.maps.Marker({
         map: map,
-        title: prop.name
+        title: prop.name,
+        center: prop.positions[pp]
       });
         marker.setPosition( prop.positions[pp]);
       var tags="";
@@ -102,9 +109,7 @@ function initMap() {
       var infowindow = new google.maps.InfoWindow({
         content: content
       });
-      marker.addListener('spider_click', function () {
-        infowindow.open(map, marker);
-      });
+      bindInfoWindow(marker, map, infowindow);
 
       var iconURL ='assets/img/marker_o.svg';
       var iconSize = new google.maps.Size(23, 32);
