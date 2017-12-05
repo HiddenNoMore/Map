@@ -18,6 +18,15 @@
     "logo": "Stholm_makerspace_logo-transparent-250px.png"
   },
   {
+    "name": "Womens Center for Creative Work",
+    "description": "WCCW is a not-for-profit organization whose mission is to cultivate LA’s feminist creative communities and practices. Combining a co-workspace on the LA river in Frogtown, project incubation facilities, residency programs, a rapidly growing network of over 16,000 followers, and a full calendar of artistic and professional development programming, WCCW advocates for feminist-led creative businesses and projects in Los Angeles.",
+    "url": "http://womenscenterforcreativework.com/",
+    "tags": ["Makerspace", "art", "entrepreneurship", "incubator", "residency", "workshop", "crafts", "business"],
+    "locations": "2425 Glover Place, Los Angeles, CA 90031, USA",
+    "positions": [{"lat": 34.092923, "lng": -118.234189}],
+    "logo": "WCCW-logo2.png"
+  },
+  {
     "name": "Double Union",
     "description": "What if we had a space that felt like the feminist unconference AdaCamp all year round? Double Union is a non-profit, created with the primary mission of being a comfortable and welcoming place for women to work on their projects. It's a space where women can feel equally comfortable knitting, coding, drawing, or using power tools and no one feels pressure to prove they belong here. We’re creating a culture where we don’t just make awesome stuff - we also ask questions, feel confused sometimes, and break things.",
     "url": "https://doubleunion.org/",
