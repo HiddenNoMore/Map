@@ -27,6 +27,15 @@
     "logo": "double_union_logo2.png"
   },
   {
+    "name": "Seattle Attic",
+    "description": "An intersectional feminist hackerspace that opened in Seattle, WA in 2013.  Workshops include circuitry, fiber arts, and paper crafts. Membership is queer and trans-inclusive and open to all genders.",
+    "url": "http://seattleattic.com/",
+    "tags": ["Makerspace", "Crafts", "Hackerspace"],
+    "locations": "819 N 49th St 224, Seattle, WA 98103, USA",
+    "positions": [{"lat": 47.663941, "lng": -122.347667}],
+    "logo": "seattleAttic.png"
+  },
+  {
     "name": "Mothership HackerMoms",
     "description": "We give mothers of every gender the time and space to explore DIY craft and design, hacker/maker culture, community workshops, entrepreneurship and all manner of creative expression -- with on-site childcare. Our HackerSprouts program teaches children the creative process through educational childcare and STEAM-based workshops. HackerMoms creates families that build together.",
     "url": "https://mothership.hackermoms.org/",
