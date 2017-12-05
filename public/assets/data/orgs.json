@@ -27,6 +27,15 @@
     "logo": "double_union_logo2.png"
   },
   {
+    "name": "Mothership HackerMoms",
+    "description": "We give mothers of every gender the time and space to explore DIY craft and design, hacker/maker culture, community workshops, entrepreneurship and all manner of creative expression -- with on-site childcare. Our HackerSprouts program teaches children the creative process through educational childcare and STEAM-based workshops. HackerMoms creates families that build together.",
+    "url": "https://mothership.hackermoms.org/",
+    "tags": ["Makerspace", "Crafts", "Hackerspace", "Maker", "design"],
+    "locations": "3288 Adeline Street, Berkeley, CA 94703, USA",
+    "positions": [{"lat": 37.848922, "lng": -122.271788}],
+    "logo": "mothership.png"
+  },
+  {
     "name": "BONEVET Makerspace",
     "description": "BONEVET is a non-profit community center where people gather to share resources and knowledge, work on projects, network, and build. It is an informal combination of a lab, a shop and a conference room which encourages “hands-on” exploration by providing resources that are usually unavailable to individuals working alone. Through this, we want to nurture a vibrant community of idea and resource sharing among its makers, which will foster character building traits like grit, creativity, open-mindedness, social responsibility and most importantly team work. To support this mission, we offer: A fully equipped and professionally maintained manufacturing facility, which includes capabilities for precision metal machining, electronics, robotics, automation, 3D printing, computer-aided design, programming, Arduino, LittleBits etc. A fully equipped and professionally maintained space dedicated only for kids in order to inflict the spirit of making by re-energizing education with the creativity, innovation, curiosity, motivation, technical know-how, and playfulness that characterize our maker community. A variety of affordable, engineering-oriented pursuits on a spectrum from expert-led to independent. The experts teach the aspiring makers the concepts, the skills and the resources which the makers will turn into real prototypes, allowing them to truly learn by doing. Expert advisors/mentors who are available to support our members. Monthly and daily membership plans for interested individuals, encouraging Do-It-Yourself culture and the maker mindset. On-site material storage and on-site project storage, allowing community members to create and store projects without the hassle of handling material and storage logistics.",
     "url": "http://www.bonevet.org/",
