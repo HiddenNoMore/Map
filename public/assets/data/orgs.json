@@ -1,11 +1,11 @@
 [
   {
     "name": "Mujeres por Africa",
-    "description": "It is a Spanish NGO that works in Africa and Spain, to promote women in Africa through education, exchange fellowship programs for professionals, entrepeunership projects, etc.",
+    "description": "A Spanish NGO that works in Africa and Spain, to promote women in Africa through education, exchange fellowship programs for professionals, entrepeunership projects, etc.",
     "url": "http://www.mujeresporafrica.es/en",
-    "tags": ["Women", "Africa", "Science", "Entrepeneur", "Entrepreneurship", "NGO"],
-    "locations": "Africa, Spain",
-    "positions": [{"lat": 40.4545770, "lng": -3.6897810},{"lat": -8.7831950, "lng": 34.5085230}],
+    "tags": ["Women", "Africa", "Science", "Entrepeneur", "Entrepreneurship", "NGO", "exchange", "fellowship"],
+    "locations": "Paseo de la Castellana, 144. 28046 Madrid, Spain",
+    "positions": [{"lat": 40.454577, "lng": -3.689781}],
     "logo": "ma.png"
   },
   {
@@ -54,12 +54,12 @@
     "logo": "bonevet.png"
   },
   {
-    "name": "Asociación de Mujeres Investigadoras y Tecnológas (AMIT)",
+    "name": "Asociación de Mujeres Investigadoras y Tecnológas, AMIT",
     "description": "Spanish NGO composed by scientist and technologist from different fields that work in Science, Technology or management of science and technology in organizations or public and private Spanish research centers.",
     "url": "http://www.amit-es.org/",
     "tags": ["Science", "Women", "Technology", "Association", "Spain"],
-    "locations": "Spain",
-    "positions": [{"lat": 40.4636670, "lng": -3.7492200}],
+    "locations": "Instituto de Ciencias de la Tierra Jaume Almera-CSIC, Carrer de Lluís Solé i Sabarís, 08028 Barcelona, Spain",
+    "positions": [{"lat": 41.384716, "lng": 2.119163}],
     "logo": "amit.png"
   },
   {
