@@ -296,4 +296,13 @@
     "positions": [{"lat": 47.497912, "lng": 19.04023499999994}],
     "logo": "skool.jpg"
   }
+  {
+    "name": "Ingeniosas",
+    "description": "INGENIOSAS: Ciencia y Tecnología para Todas (Science and Technology for All) is an initiative that seeks to encourage girls and adolescents in the fields of science, engineering, technology and mathematics (STEM). Ingeniosas was created to erase the gender stereotypes that affect women's vocational decisions, limiting their educational and work projects, which is reflected in their low participation in the STEM areas. The program is supported by ComunidadMujer and the Embassy of the United States.",
+    "url": "https://ingeniosas.org/",
+    "tags": ["code", "workshops", "nonprofit"],
+    "locations": "Santiago, Chile",
+    "positions": [{"lat": -33.4378305, "lng": -70.65044920000003}],
+    "logo": "ingeniosas.png"
+  }
 ]
