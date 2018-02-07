@@ -331,5 +331,23 @@
     "locations": "Santiago, Chile",
     "positions": [{"lat": 25.2048493, "lng": 55.270782800000006}],
     "logo": "arabwic-uae.jpg"
+  },
+  {
+    "name": "JSLadies",
+    "description": "We are the first national and exclusively female group focused on teaching and helping more women to program in JavaScript.",
+    "url": "https://www.facebook.com/jsladiesbr/",
+    "tags": ["workshops", "community"],
+    "locations": "Sao Paolo, Brazil",
+    "positions": [{"lat": -23.5505199, "lng": -46.63330940000003}],
+    "logo": "jsladies-brasil.png"
+  },
+  {
+    "name": "Laboratoria Peru",
+    "description": "We are working to become the leading source of female tech talent from Latin America to the world, transforming the future of thousands of women and the companies that employ them. ",
+    "url": "http://www.laboratoria.la/en",
+    "tags": ["latam", "coding course", "professional development"],
+    "locations": "Lima, Peru",
+    "positions": [{"lat": -12.1260672, "lng": -77.0206278}],
+    "logo": "laboratoria-peru.png"
   }
 ]
