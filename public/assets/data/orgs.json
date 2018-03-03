@@ -364,8 +364,17 @@
     "description": "she++, a 501(c)3 nonprofit organization, works to empower underrepresented groups in technology by dismantling negative stereotypes surrounding technical careers.  We aim to dispel the misconception that computer science is not a career for women and minorities by rebranding what it means to be a technologist.",
     "url": "http://www.sheplusplus.com/",
     "tags": ["nonprofit", "US", "high school", "university", "fellowship"],
-    "locations": "Palo Alto, California",
+    "locations": "Palo Alto, CA, USA",
     "positions": [{"lat": 37.4418834, "lng": -122.14301949999998}],
     "logo": "she++.png"
+  },
+  {
+    "name": "Electric Girls",
+    "description": "Electric Girls was founded in Spring 2015 by Flor Serna as a response to her experience as the only female recording engineer at Vital Sounds Recording out of Loyola University. Quickly joined by Maya Ramos, the pair founded Electric Girls to develop leadership skills in young girls through their learning of electronics and computer programming skills.",
+    "url": "https://www.electricgirls.org/",
+    "tags": ["nonprofit", "US", "electronics"],
+    "locations": "New Orleans, LA, USA",
+    "positions": [{"lat": 29.9618154, "lng": -90.05964689999996}],
+    "logo": "electric-girls.png"
   }
 ]
