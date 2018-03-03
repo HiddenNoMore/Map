@@ -349,5 +349,23 @@
     "locations": "Lima, Peru",
     "positions": [{"lat": -12.1260672, "lng": -77.0206278}],
     "logo": "laboratoria-peru.png"
+  },
+  {
+    "name": "Czechitas",
+    "description": "We help women, girls and children to explore the world of information technologies. We teach them to code in various programming languages, test their software, or analyse complex data. We organize workshops and courses on different levels of expertise, focused on particular knowledge or technology. We organize summer IT camps, requalification and evening courses. We inspire and empower new talents for stronger diversity and competitiveness in tech.",
+    "url": "https://www.czechitas.cz/en/",
+    "tags": ["EU", "coding course", "nonprofit"],
+    "locations": "Prague, Czechia",
+    "positions": [{"lat": 50.0755381, "lng": 14.43780049999998}],
+    "logo": "czechitas.png"
+  },
+  {
+    "name": "She++",
+    "description": "she++, a 501(c)3 nonprofit organization, works to empower underrepresented groups in technology by dismantling negative stereotypes surrounding technical careers.  We aim to dispel the misconception that computer science is not a career for women and minorities by rebranding what it means to be a technologist.",
+    "url": "http://www.sheplusplus.com/",
+    "tags": ["nonprofit", "US", "high school", "university", "fellowship"],
+    "locations": "Palo Alto, California",
+    "positions": [{"lat": 37.4418834, "lng": -122.14301949999998}],
+    "logo": "she++.png"
   }
 ]
