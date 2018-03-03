@@ -376,5 +376,14 @@
     "locations": "New Orleans, LA, USA",
     "positions": [{"lat": 29.9618154, "lng": -90.05964689999996}],
     "logo": "electric-girls.png"
+  },
+  {
+    "name": "Akira Chix",
+    "description": "AkiraChix is a not for profit organisation that aims to inspire and develop a successful force of women in technology who will change Africa’s future.Founded in April 2010, AkiraChix aims to be the leading women’s network impacting technology in Africa. It’s programs are developed to reach young women at different levels, those in Primary School, High School and University, those working in technology and those who wish to have a career in technology, making it an effectively wholesome program.",
+    "url": "http://akirachix.com/",
+    "tags": ["nonprofit", "high school", "professional development"],
+    "locations": "Nairobi, Kenya",
+    "positions": [{"lat": -1.2988611, "lng": 36.79079090000005}],
+    "logo": "akira-chix.png"
   }
 ]
